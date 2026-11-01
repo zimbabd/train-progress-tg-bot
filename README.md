@@ -2,7 +2,6 @@
 
 A Telegram bot for recording workouts and viewing recent or PDF training statistics.
 
-Bot: [@TrainProgress_bot](https://t.me/TrainProgress_bot)
 
 ## Features
 
